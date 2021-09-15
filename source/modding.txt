@@ -1,0 +1,7 @@
+files you must modify:
+
+LoadLevel.hx: add your custom level state
+-copy TemplateLevelState.hx and rename the class and the file to "Level<name>State.hx"
+-add Level<name>State.hx to the switch where case "<number>" should be your level name, it can be a string so you can have something like Level 1A
+
+more advanced shit requires you to modify Player.hx
