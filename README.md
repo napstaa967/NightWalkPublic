@@ -1,5 +1,6 @@
 # Night Walk
 ![logo_star](https://user-images.githubusercontent.com/57607350/133504633-1e75a41e-92c4-4bd5-bb08-99cd9ab7088c.png)
+
 Night Walk is a solo project i've been working on to get experience at making videogames and stuff
 this is a platformer game that adds tiles with different obstacles with no enemies
 
