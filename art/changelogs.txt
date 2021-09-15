@@ -1,0 +1,36 @@
+Changelogs:
+dd/mm/yyyy
+
+0.0.27b (Release Candidate 1) 09/09/2021: [
+Added:
+-Load Level Button
+Changed:
+-Physics are now loaded from LevelXPhysics.json
+-Win level is no longer hardcoded
+-Button positions are no longer on a list style when there are more than 4
+Fixed:
+-Save sounds no longer overlap
+-Physics are now inside every level's state
+]
+0.0.27c (LevelState Test) 10/09/2021: [
+Added:
+-added an outdated screen
+Changed:
+-all levels share a single state file
+
+DELETED IN FAVOR OF CUSTOM TILE RULES FOR LEVELS 11+
+]
+0.0.28 (Release Candidate 2) ??/??/2021: [
+Added:
+-outdated screen
+-added Template.hx
+-build number (counting from build 0 in hexadecimal)
+-added tracks: Sounds, Nowhere, Unsure
+-added animations for climbing stairs and when on glue (aka you can now have diff hitboxes)
+-NightlySubState screen on startup incase you're outdated
+Changed:
+-Level physics are now handled by HandlePhysics.hx, making level filesizes small in favor of modding (YES I KNOW HOW TO MAKE EVERYTHING ONE FILE BUT I PREFFER IT TO BE THIS WAY)
+-All level states have the required code for the features in levels 1-10, making custom levels more customizable
+-new logo
+-new discord rich precense icons
+]

@@ -1,0 +1,37 @@
+modding guide:
+
+adding custom tiles with custom behavior:
+-add the tile to specialtiles
+-go to level#state.hx and add the special tile property with the function that has to be called on collision with it
+-write the function
+-open ogmo and make your custom level
+
+add all special tiles to the special layer and tileset, else add it to the main tileset
+
+this game is a mess to code
+
+index or something:
+
+special:
+
+1. ice
+2. lava
+3. win tile
+4. flag
+5. glue left
+6. glue up
+7. glue right
+8. glue down
+9. glue left-up
+10. glue up-right
+11. glue right-down
+12. glue left-down
+13. glue left-up-right
+14. glue up-right-down
+15. glue left-right-down
+16. glue left-up-down
+17. glue all
+18. glue up-down
+19. glue left-right
+20. conveyor right
+21. conveyor left

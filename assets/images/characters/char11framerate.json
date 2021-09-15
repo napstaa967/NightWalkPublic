@@ -1,0 +1,11 @@
+{
+	"jump": 4,
+	"idle": 4,
+	"walk": 8,
+	"3dleft": 2,
+	"3dright": 2,
+	"3dup": 3,
+	"3ddown": 3,
+	"climb": 8,
+	"hang": 4
+}

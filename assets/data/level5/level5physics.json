@@ -1,0 +1,10 @@
+{
+	"gravitystrenght": 1,
+	"icevelocity": 1,
+	"conveyorvelocity": 1,
+	"deathlevel": "5",
+	"winlevel": "6",
+	"curlevel": "5",
+	"zoom": 1.5,
+	"frictionboost": 1
+}
